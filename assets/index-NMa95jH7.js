@@ -9362,7 +9362,7 @@ function Id() {
                           className: "text-[70px] -mb-3",
                           children: "©",
                         }),
-                        " 2025 By Scream. All Rights reserved",
+                        " 2026 By Scream. All Rights reserved",
                       ],
                     }),
                     p.jsx("span", {
@@ -9518,7 +9518,7 @@ function Md() {
                           className: "text-[30px] -mb-1",
                           children: "©",
                         }),
-                        " 2025 By Scream. All Rights reserved",
+                        " 2026 By Scream. All Rights reserved",
                       ],
                     }),
                     p.jsxs("span", {
